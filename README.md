@@ -1,1 +1,29 @@
 # UTS_PBO2_RizalFahatrikNugraha_23552011452
+Pemrograman Berorientasi Obyek 2 Dosen Pengampu: Muhammad Ikhwan Fathulloh
+Nama: {Rizal fahatrik Nugraha}
+NIM: {23552011452} 
+kelas: TIF-23-CNS-A
+Studi Kasus: {kasir sistem transportasi umum} 
+
+Penjelasan 4 Pilar OOP dalam Studi Kasus
+
+Inheritance Lorem ipsum sir dolor amet.
+
+Encapsulation Lorem ipsum sir dolor amet.
+
+Polymorphism Lorem ipsum sir dolor amet.
+
+Abstract Lorem ipsum sir dolor amet.
+
+KONSEP OOP 
+● Inheritance: Kendaraan -> Mobil, Bus 
+● Polymorphism: Kendaraan::hitungBiaya() 
+● Encapsulation: Informasi kendaraan 
+● Interface: TransportasiUmum 
+
+SKEMA DATABASE
+● kendaraan(id, jenis, kapasitas) 
+● rute(id, asal, tujuan, jarak) 
+● transaksi(id, kendaraan_id, rute_id, total) 
+
+Demo Proyek Github: https://youtube.com/shorts/etWgSSjrbGI
