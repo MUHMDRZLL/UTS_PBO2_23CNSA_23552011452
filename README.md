@@ -1,6 +1,6 @@
 # UTS_PBO2_RizalFahatrikNugraha_23552011452
 Mohon Maaf pa link youtube yang di file readme salah makanya saya followup ulang
-link youtube saya lampirkan: https://youtu.be/eKu6DTsmN8o
+link youtube saya berikut: https://youtu.be/eKu6DTsmN8o
 Pemrograman Berorientasi Obyek 2 Dosen Pengampu: Muhammad Ikhwan Fathulloh
 Nama: {Rizal fahatrik Nugraha}
 NIM: {23552011452} 
